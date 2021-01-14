@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# A first (in hopefully) many spiritual commitments 
+.patriarchy/
